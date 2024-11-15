@@ -4,10 +4,13 @@ Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş bir masaüstü Labir
 ## Özellikler
 Fareyle kontrol: 
 Oyuncu karakterini fare hareketleriyle yönlendirebilir.
+
 Engel sistemi: 
 Duvara çarptığınızda başlangıç noktasına dönersiniz.
+
 Bitirme noktası: 
 Bitirme noktasına ulaştığınızda bir tebrik mesajı görünür ve ses efekti çalar.
+
 ## Kullanım
 Oyunu başlatmak için uygulamayı çalıştırın.
 Farenizi kullanarak karakterinizi labirentte hareket ettirin.
