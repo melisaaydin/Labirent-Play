@@ -16,7 +16,7 @@ Bitirme noktasına ulaştığınızda bir tebrik mesajı görünür ve ses efekt
 
 Windows işletim sistemi.
 
-##Kurulum
+## Kurulum
 Projeyi indirin veya klonlayın:
 
 bash
