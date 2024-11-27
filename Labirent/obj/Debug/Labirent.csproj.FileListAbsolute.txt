@@ -8,3 +8,13 @@ C:\Users\melis\OneDrive\Masaüstü\Masaüstü Uyg\Labirent\Labirent\obj\Debug\La
 C:\Users\melis\OneDrive\Masaüstü\Masaüstü Uyg\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
 C:\Users\melis\OneDrive\Masaüstü\Masaüstü Uyg\Labirent\Labirent\obj\Debug\Labirent.exe
 C:\Users\melis\OneDrive\Masaüstü\Masaüstü Uyg\Labirent\Labirent\obj\Debug\Labirent.pdb
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\bin\Debug\Labirent.exe
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\bin\Debug\Labirent.pdb
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.Form1.resources
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.Properties.Resources.resources
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.exe
+C:\Users\melis\OneDrive\Masaüstü\MasaüstüUyg\Labirent\Labirent\obj\Debug\Labirent.pdb
