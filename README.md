@@ -1,9 +1,11 @@
  # Labirent Oyunu
-Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş bir masaüstü Labirent oyunudur. Oyuncunun amacı, fareyle kontrol ettiği karakteri labirent içerisinde dolaştırarak bitiş noktasına ulaşmaktır.
+Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş bir masaüstü Labirent oyunudur. Oyuncunun amacı, fareyle veya klavyeyle kontrol ettiği karakteri labirent içerisinde dolaştırarak bitiş noktasına ulaşmaktır.
 
 ## Özellikler
 Fareyle kontrol: 
 Oyuncu karakterini fare hareketleriyle yönlendirebilir.
+Klavyeyle Kontrol:
+Kullanıcılar, yukarı, aşağı, sol ve sağ ok tuşlarıyla hareket edebilir.
 
 Engel sistemi: 
 Duvara çarptığınızda başlangıç noktasına dönersiniz.
@@ -34,7 +36,7 @@ Projeyi derleyip çalıştırın.
 ## Kullanım
 Oyunu başlatmak için uygulamayı çalıştırın.
 
-Farenizi kullanarak karakterinizi labirentte hareket ettirin.
+Farenizi veya klavyenizi kullanarak karakterinizi labirentte hareket ettirin.
 
 Duvarlara çarpmamaya çalışın, aksi takdirde başlangıç noktasına dönersiniz.
 
