@@ -4,6 +4,7 @@ Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş bir masaüstü Labir
 ## Özellikler
 Fareyle kontrol: 
 Oyuncu karakterini fare hareketleriyle yönlendirebilir.
+
 Klavyeyle Kontrol:
 Kullanıcılar, yukarı, aşağı, sol ve sağ ok tuşlarıyla hareket edebilir.
 
